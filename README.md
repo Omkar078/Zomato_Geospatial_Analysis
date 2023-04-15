@@ -12,5 +12,5 @@ Zomato is online food delivery company. It is availaible in 24 countries across 
 ## Steps in project:
 1. Reading the data
 2. Data cleaning
-3. Perform data analysis based on problem statement
+3. Perform data analysis based on problems statement
 
